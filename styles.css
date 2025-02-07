@@ -208,7 +208,7 @@ i::before {
     border-radius: 8px;
     width: 100%;
     flex: 1;
-    max-height: 50vh;
+    height: 100%;
 }
 .rep {
     margin-top: 32px !important;
