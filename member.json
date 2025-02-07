@@ -30,14 +30,14 @@
     {
         "id": "4",
         "name": "Thiên Lý",
-        "avatar": "/img/thienli.jpg",
+        "avatar": "img/thienli.jpg",
         "age": "27",
         "role": "Jack <img width='23px' src='./img/ja97.jpg'/>"
     },
     {
         "id": "5",
         "name": "<del>Tommy Xào Mỳ</del>",
-        "avatar": "./img/tomxao.jpg",
+        "avatar": "img/tomxao.jpg",
         "age": "40",
         "role": "<span style='color: red '}>Banned 💀</span> <x title='Lí do ban: quá láo' style='cursor: pointer'>🛈</x"
     }
