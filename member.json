@@ -35,10 +35,24 @@
         "role": "Jack <img width='23px' src='./img/ja97.jpg'/>"
     },
     {
+        "id": "6",
+        "name": "Bánh đậu Hoà An",
+        "avatar": "https://hoaan.vn/uploads/images/logo-192574950.png",
+        "age": "18",
+        "role": "<span style='color: aqua'}>Leader</span>"
+    },
+    {
         "id": "5",
         "name": "<del>Tommy Xào Mỳ</del>",
         "avatar": "img/tomxao.jpg",
         "age": "40",
-        "role": "<span style='color: red '}>Banned 💀</span> <x title='Lí do ban: quá láo' style='cursor: pointer'>🛈</x"
+        "role": "<span style='color: red '}>Banned</span> <x title='10 năm. Lí do: Vi phạm tiêu chuẩn cộng đồng về bảo vệ động vật quý hiếm' style='cursor: pointer'>🛈</x"
+    },
+    {
+        "id": "7",
+        "name": "<del>Nguyễn Bôn Bốt</del>",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_sWDOXNwwmcyj98jPDai_iK3RAaHEfAgilQ&s",
+        "age": "72",
+        "role": "<span style='color: red '}>Banned 💀x 3m</span> <x title='∞. Lí do: Vô đạo bất lương' style='cursor: pointer'>🛈</x"
     }
 ]

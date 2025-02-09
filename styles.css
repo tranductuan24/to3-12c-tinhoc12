@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: "Oswald", serif;
 }
+img {
+    border-radius: 8px;
+}
 ul {
     /* text-decoration: none; */
     list-style: none;
@@ -261,6 +264,7 @@ table {
     width: 80%;
     text-align: center;
     margin: auto;
+    margin-bottom: 64px;
 }
 th {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
