@@ -8,24 +8,24 @@
     },
     {
         "id": "2",
-        "name": "Tuấn",
+        "name": "84 117 97 110",
         "avatar": "img/sigm.jpg",
         "age": "17",
-        "role": "<span style='color: aqua'}>Admin</span>"
+        "role": "<span style='color: aqua '}>Admin</span> <x title='ASCII' style='cursor: pointer'>🛈</x"
     },
     {
         "id": "3",
         "name": "#´",
         "avatar": "img/ngo.jpg",
         "age": "1",
-        "role": "Bạc"
+        "role": "OpenAI <img width='23px' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg'>"
     },
     {
         "id": "3",
         "name": "☆彡WAG✿BáC✿GấU彡☆",
         "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nP2q8DX2R_-EF4VeG9d-C7I-Vcz_yJz7l_rDxN4PBWwA=s900-c-k-c0x00ffffff-no-rj",
         "age": "Chưa xác định",
-        "role": "<span style='background-color:yellow;color: #000 '}>Thách đấu 👑</span>"
+        "role": "<span style='background-color:yellow;color: #000 '}>Vàng Float 👑</span>"
     },
     {
         "id": "4",
@@ -33,6 +33,13 @@
         "avatar": "img/thienli.jpg",
         "age": "27",
         "role": "Jack <img width='23px' src='./img/ja97.jpg'/>"
+    },
+    {
+        "id": "8",
+        "name": "Cô Ngân 📺",
+        "avatar": "https://i.pinimg.com/736x/3c/09/79/3c09799a9d80c677b619e5f38a44299d.jpg",
+        "age": "24",
+        "role": "<span style='color: aqua'}>Overrate<img width='23px' style='margin-left:4px' src='https://i.pinimg.com/236x/f1/2c/35/f12c35db8805eae6cd394390d45d1a1e.jpg'/></span>"
     },
     {
         "id": "6",
@@ -53,6 +60,6 @@
         "name": "<del>Nguyễn Bôn Bốt</del>",
         "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_sWDOXNwwmcyj98jPDai_iK3RAaHEfAgilQ&s",
         "age": "72",
-        "role": "<span style='color: red '}>Banned 💀x 3m</span> <x title='∞. Lí do: Vô đạo bất lương' style='cursor: pointer'>🛈</x"
+        "role": "<span style='color: red '}>Banned</span> <x title='∞. Lí do: Ban nhầm gần 3 triệu người dùng 💀💀💀' style='cursor: pointer'>🛈</x"
     }
 ]
