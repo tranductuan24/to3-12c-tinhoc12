@@ -76,10 +76,11 @@ i::before {
     width: 100%;
     /* padding-bottom: 56.25%; */
 }
-#hero .hero-img img {
+#hero .hero-img video {
     display: block;
     width: 100%;
     height: 100%;
+    border-radius: 8px;
     /* object-fit: cover; */
 }
 #hero .hero-content {
@@ -280,4 +281,9 @@ td {
 }
 a {
     color: cyan;
+}
+
+/* Track */
+::-webkit-scrollbar {
+    width: 0;
 }
